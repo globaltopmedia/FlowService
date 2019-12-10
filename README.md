@@ -169,7 +169,7 @@ docker run -p 1881:1881 -v $PWD/lib/flow/src:/opt/flow/src pib:v1
 | Parameter              | Description          |
 | ---------              | -----------          |
 | -p 1881:1881           | Port Forwarding von Container auf Host | 
-| -v [PATH]:[PATH] | Verbindet das Entwicklungsverzeichnis mit src Ordner im Container |
+| -v [PATH]:[PATH] | Connects the development folder with the src directory in the Container |
 
 ## Folder Interface
 TBD
